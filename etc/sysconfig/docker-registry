@@ -13,5 +13,5 @@ REGISTRY_PORT=5000
 # Number of workers to handle the connections
 GUNICORN_WORKERS=8
 
-# see p.58
+# see p.58 ISBN 9784774176543
 SEARCH_BACKEND=sqlalchemy
