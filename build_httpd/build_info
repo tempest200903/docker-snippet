@@ -1,0 +1,2 @@
+DOCKER_REPO=decoy2015/httpd
+DOCKER_TAG=ver1.2
